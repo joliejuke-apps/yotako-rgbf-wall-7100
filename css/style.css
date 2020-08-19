@@ -1,0 +1,39 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #f9f9f9
+}
+.style1 {
+  background-color: #02f;
+  margin-left: 29.355783308931187vw;
+  margin-top: 29.411764705882355vh;
+  width: 21.2298682284041vw;
+  height: 19.472913616398245vw;
+  z-index: 0
+}
+.style2,
+.style3 {
+  position: relative
+}
+.style2 {
+  display: flex;
+  margin-top: 44.11764705882353vh;
+  background-color: red;
+  margin-left: -.43923865300146414vw;
+  width: 20.497803806734993vw;
+  height: 20.20497803806735vw;
+  z-index: 1
+}
+.style3 {
+  background-color: #00ff19;
+  margin-left: -17.05710102489019vw;
+  margin-top: 2.4158125915080526vw;
+  width: 22.693997071742313vw;
+  height: 23.718887262079065vw;
+  z-index: 2;
+  flex-shrink: 0
+}
+.breakpoint-0 {
+  display: block
+}
